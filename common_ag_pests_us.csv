@@ -1,0 +1,519 @@
+0,pestName
+1,Adelgid (Adelges spp.)
+2,"Adelgid, Cooley Spruce (Adelges cooleyi)"
+3,"Adelgid, Eastern Spruce Gall (Adelges abietis)"
+4,"Adelgid, Hemlock Woolly (Adelges tsugae)"
+5,"Adelgid, Pine Bark (Pineus strobe)"
+6,Ant (Formicidae)
+7,"Ant, Carpenter (Camponotus spp.)"
+8,"Ant, Fire (Solenopsis geminata)"
+9,"Ant, Pharaoh (Monomorium pharaonis)"
+10,Aphid (Aphididae)
+11,"Aphid, Apple (Aphis pomi)"
+12,"Aphid, Artichoke"
+13,"Aphid, Bean/Black Bean (Aphis fabae)"
+14,"Aphid, Black Peach (Brachycaudus persicae)"
+15,"Aphid, Black Pecan (Melanocallis caryaefoliae)"
+16,"Aphid, Blackmargined (Monellia caryella)"
+17,"Aphid, Blue Alfalfa (Acyrthosiphon kondoi)"
+18,"Aphid, Cabbage (Brevicoryne brassicae)"
+19,"Aphid, Cotton/Melon (Aphis gossypii)"
+20,"Aphid, Cowpea (Aphis craccivora)"
+21,"Aphid, European Asparagus (Brachycorynella asparagi)"
+22,"Aphid, Foxglove (Aulacorthum solani)"
+23,"Aphid, Green Peach (Myzus persicae)"
+24,"Aphid, Hop (Phorodon humuli)"
+25,"Aphid, Lettuce (Nasonovia ribis-nigri)"
+26,"Aphid, Lettuce Root (Pemphigus bursarius)"
+27,"Aphid, Melon (Aphis gossypii)"
+28,"Aphid, Pea (Acyrthosiphon pisum)"
+29,"Aphid, Potato (Macrosiphum euphorbiae)"
+30,"Aphid, Rose (Macrosiphum rosae)"
+31,"Aphid, Rosy Apple (Dysaphis plantaginea)"
+32,"Aphid, Russian Wheat (Diuraphis noxia)"
+33,"Aphid, Spotted Alfalfa (Therioaphis maculata)"
+34,"Aphid, Willow Carrot (Cavariella aegopodii)"
+35,"Aphid, Woolly (Eriosomatinae)"
+36,"Aphid, Woolly Apple (Eriosoma lanigerum)"
+37,"Aphid, Yellow Pecan (Monelliopsis pecanis)"
+38,"Appleworm, lesser (Grapholita prunivora)"
+39,Armyworm (All species)
+40,Armyworm (Spodoptera spp.)
+41,"Armyworm, Beet (Spodoptera exigua)"
+42,"Armyworm, Bertha (Mamestra configurata)"
+43,"Armyworm, Fall (Spodoptera frugiperda)"
+44,"Armyworm, Southern (Spodoptera eridania)"
+45,"Armyworm, True (Pseudaletia spp.)"
+46,"Armyworm, Western Yellowstriped"
+47,"Armyworm, Yellowstriped (Spodoptera ornithogalli)"
+48,Bactrocera spp.
+49,Bagworm (Thyridopteryx ephemeraeformis)
+50,Batrachedra comosae
+51,Bed bug (Cimex lectularius)
+52,Beetle (Coleoptera)
+53,"Beetle, Asian Long-horned (Anoplophora glabripennis)"
+54,"Beetle, Asiatic garden"
+55,"Beetle, Asparagus"
+56,"Beetle, Bark (Scolytidae)"
+57,"Beetle, Bean (Acanthoscelides obtectus)"
+58,"Beetle, Bean Leaf (Cerotoma trifurcata)"
+59,"Beetle, Blister (Meloidae)"
+60,"Beetle, Cereal Leaf (Oulema melanopus)"
+61,"Beetle, Cigarette (Lasioderma serricorne)"
+62,"Beetle, Colorado potato"
+63,"Beetle, Corn Rootworm (Diabrotica spp.)"
+64,"Beetle, Cucumber/Corn Rootworm"
+65,"Beetle, Darkling (Tenebrionidae spp.)"
+66,"Beetle, Douglas Fir"
+67,"Beetle, Elm (Saperda tridentata)"
+68,"Beetle, Elm Bark (various)"
+69,"Beetle, Elm Leaf"
+70,"Beetle, Flea"
+71,"Beetle, Fuller Rose (Asynonychus godmanni)"
+72,"Beetle, Grape Bud (Glyptoscelis squamulata)"
+73,"Beetle, Green June (Cotinis nitida)"
+74,"Beetle, Japanese (Popillia japonica)"
+75,"Beetle, June (Cotinis nitida)"
+76,"Beetle, Mexican Bean (Epilachna varivestis)"
+77,"Beetle, Mountain Pine (Dendroctonus ponderosae)"
+78,"Beetle, Oriental"
+79,"Beetle, Pine (Dendroctonus spp.)"
+80,"Beetle, Potato Flea"
+81,"Beetle, Sawtoothed Grain (Oryzaephilus)"
+82,"Beetle, Scarab"
+83,"Beetle, Southern Pine (Dendroctonus frontalis)"
+84,"Beetle, Spotted Cucumber (Diabrotica)"
+85,"Beetle, Strawberry Leaf (Galerucella)"
+86,"Beetle, Strawberry Sap (Stelidota geminata)"
+87,"Beetle, Striped Cucumber (Acalymma vittatum)"
+88,"Beetle, Viburnum Leaf"
+89,"Beetle, Western Striped Cucumber"
+90,"Beetle, Whitefringed (Graphognathus spp.)"
+91,Billbug
+92,Black flies
+93,"Bollworm, Cotton (Helicoverpa zea)"
+94,"Bollworm, Old World"
+95,"Bollworm, Pink (Pectinophora gossypiella)"
+96,Borer (Coleoptera and Lepidoptera)
+97,"Borer, Bronze Birch (Agrilus anxius)"
+98,"Borer, coffee berry"
+99,"Borer, Dogwood (Synanthedon scitula)"
+100,"Borer, European Corn (Ostrinia nubilalis)"
+101,"Borer, Greater peachtree (Synanthedon exitiosa)"
+102,"Borer, Lesser Peachtree (Synanthedon pictipes)"
+103,"Borer, Long Horned Stem"
+104,"Borer, Macadamia Nut (Cryptophlebia ombrodelta)"
+105,"Borer, Pacific Flatheaded (Chrysobothris mali)"
+106,"Borer, Peach Twig (Anarsia lineatella)"
+107,"Borer, Peachtree (Synanthedon exitiosa)"
+108,"Borer, Southern Cornstalk (Diatraea crambidoides)"
+109,"Borer, Southwestern Corn (Diatraea grandiosella)"
+110,"Borer, Squash Vine (Melittia cucurbitae)"
+111,"Borer, Sugarcane (Diatraea saccharalis)"
+112,"Borer, Twig"
+113,Broad mite (Polyphagotarsonemus latus)
+114,"Budmoth, Tufted Apple"
+115,Budworm (Choristoneura spp.)
+116,"Budworm, Blackheaded (Acleris gloverana)"
+117,"Budworm, Blackheaded (Acleris variana)"
+118,"Budworm, Cabbage"
+119,"Budworm, Jack Pine (Choristoneura pinus)"
+120,"Budworm, Spruce/Eastern Spruce"
+121,"Budworm, Tobacco (Heliothis virescens)"
+122,"Bug, Apple Red (Lygus mendax)"
+123,"Bug, Boxelder (Boisea trivittata)"
+124,"Bug, Chinch (Blissus spp.)"
+125,"Bug, Lace (Tingidae)"
+126,"Bug, Lygus (Lygus hesperus)"
+127,"Bug, Squash (Anasa tristis)"
+128,"Bug, Western Boxelder (Boisea rubrolineata)"
+129,"Butterfly, Pine (Neophasia menapia)"
+130,Cabbageworm (various)
+131,"Cabbageworm, Cross Stripe"
+132,"Cabbageworm, Imported (Pieris rapae)"
+133,Cambium Miner
+134,Cankerworm (Geometridae)
+135,Cankerworm (Paleacrita merriccata)
+136,"Cankerworm, Fall (Alsophila pometaria)"
+137,"Cankerworm, Spring (Paleacrita vernata)"
+138,Casebearer (Coleophoridae)
+139,"Casebearer, Pecan Nut (Acrobasis nuxvorella)"
+140,Caterpillar (General)
+141,"Caterpillar, Alfalfa"
+142,"Caterpillar, Azalea (Datana major)"
+143,"Caterpillar, Eastern Tent (Malacosoma americanum)"
+144,"Caterpillar, Florida Fern (Callopistria floridensis)"
+145,"Caterpillar, Forest Tent"
+146,"Caterpillar, Oleander (Syntomeida epilais)"
+147,"Caterpillar, Range (Hemileuca oliviae)"
+148,"Caterpillar, Redhumped (Schizura concinna)"
+149,"Caterpillar, Saddleback (Sibine stimulea)"
+150,"Caterpillar, Saddled Prominent (Heterocampa guttivitta)"
+151,"Caterpillar, Saltmarsh (Estigmene acrea)"
+152,"Caterpillar, Tent"
+153,"Caterpillar, Tent (Lasiocampidae)"
+154,"Caterpillar, Velvetbean (Anticarsia gemmatalis)"
+155,"Caterpillar, Walnut (Datana integerrima)"
+156,Catocala
+157,Chafer (Scarabaeidae)
+158,"Chafer, Northern Masked (Cyclocephala borealis)"
+159,"Chafer, Rose (Macrodactylus subspinosus)"
+160,"Chafer, Southern Masked (Cyclocephala lurida)"
+161,Cherry Fruitworm (Grapholita packardi)
+162,Chiggers
+163,Citrus rust mite (Phyllocoptruta oleivora)
+164,"Cloverworm, Green (Hypena scabra)"
+165,"Cloverworm, Green (Plathypena scabra)"
+166,Codling moth (Cydia pomonella)
+167,Coleoptera
+168,Coneworm
+169,Corn Borer (Lepidoptera)
+170,"Corn Borer, European (Ostrinia nubilalis)"
+171,"Corn Borer, Southwestern (Diatraea grandiosella)"
+172,Corn earworm larvae
+173,Cranberry Fruitworm (Acrobasis vaccinii)
+174,Cricket (Gryllidae)
+175,"Cricket, Mole (All species)"
+176,"Cricket, Mormon (Anabrus simplex)"
+177,Cross-striped Cabbageworm (Evergestis rimosalis)
+178,"Curculio, Cowpea (Chalcodermus aeneus)"
+179,"Curculio, Plum (Conotrachelus nenuphar)"
+180,Cutworm (Nephelodes minians)
+181,Cutworm (Noctuidae)
+182,"Cutworm, Black (Agrotis ipsilon)"
+183,"Cutworm, Citrus"
+184,"Cutworm, Roughskinned"
+185,"Cutworm, Spotted"
+186,"Cutworm, Variegated (Peridroma saucia)"
+187,"Cutworm, Western Bean (Richia albicosta)"
+188,Diamondback Moth (Plutella xylostella)
+189,Drain flies
+190,Duponchelia fovealis
+191,Earwig (Dermaptera)
+192,"Earworm, Corn (Helicoverpa zea (Heliothis zea))"
+193,Eelworm
+194,Emerald Ash Borer
+195,Eotetranychus spp.
+196,European red mite
+197,Fireworm (Lepidoptera)
+198,"Fireworm, Blackheaded (Rhopobota naevana)"
+199,Flea
+200,Fleahopper (Miridae)
+201,Fly (Diptera)
+202,"Fly, Caribbean Fruit (Anastrepha suspensa)"
+203,"Fly, Crane (Tipulidae)"
+204,"Fly, Hessian (Mayetiola destructor)"
+205,"Fly, House"
+206,"Fly, Mediterranean Fruit (Ceratitis capitata)"
+207,"Fly, Oriental Fruit (Bactrocera dorsalis)"
+208,"Fly, Walnut Husk (Rhagoletis completa)"
+209,Fruit Fly (Tephritidae)
+210,"Fruit Fly, Caribbean (Anastrepha suspensa)"
+211,"Fruit Fly, Cherry/Cherry Maggot"
+212,"Fruit Fly, Mediterranean (Ceratitis capitata)"
+213,"Fruit Fly, Oriental (Bactrocera dorsalis)"
+214,Fruitworm (various)
+215,"Fruitworm, Cherry (Grapholita packardi)"
+216,"Fruitworm, Cranberry (Acrobasis vaccinii)"
+217,"Fruitworm, Green"
+218,"Fruitworm, Sparganothis (Sparganothis spp.)"
+219,"Fruitworm, Tomato (Helicoverpa zea)"
+220,Fungus Gnat (All species)
+221,Garden symphylan
+222,"Geometer, Chainspotted (Cingilia catenaria)"
+223,Girdler
+224,Gnat
+225,Goldspotted Oak Borer
+226,Grape Berry Moth (Paralobesia viteana)
+227,Grapeleaf Skeletonizer (Harrisina americana)
+228,Grasshopper (Orthoptera)
+229,"Grasshopper, Differential"
+230,Grubs
+231,Gummosos-Batrachedra
+232,Gypsy Moth (Lymantria dispar)
+233,Hagmoth (Phobetron pithecium)
+234,Headmoth
+235,Headworm (Helicoverpa zea)
+236,Helicoverpa (Helicoverpa spp.)
+237,Heliothis (Heliothis spp.)
+238,Hemiptera (true bugs)
+239,Hickory shuckworm (Cydia caryana)
+240,Hodges
+241,"Hopper, Three Cornered Alfalfa (Spissistilus festinus)"
+242,"Hopper, Threecornered Alfalfa"
+243,Hornworm (Manduca spp.)
+244,Hornworm (Sphingidae)
+245,"Hornworm, Tobacco (Manduca sexta)"
+246,"Hornworm, Tomato (Manduca quinquemaculata)"
+247,"Husk Fly, Walnut (Rhagoletis completa)"
+248,"Insects, general"
+249,Katydid
+250,Lacebug (Tingidae)
+251,"Leaffolder, Grape"
+252,Leafhopper (Cicadellidae)
+253,"Leafhopper, Aster (Macrosteles quadrilineatus)"
+254,"Leafhopper, Grape (Erythroneura elegantula)"
+255,"Leafhopper, Potato (Empoasca fabae)"
+256,"Leafhopper, Variegated (Erythroneura variabilis)"
+257,Leafminer (Liriomyza trifolii)
+258,Leafminer (various)
+259,"Leafminer, Citrus (Phyllocnistis citrella)"
+260,"Leafminer, Liriomyza (Liriomyza spp.)"
+261,Leafminers
+262,Leafperforator
+263,Leafroller (Tortricidae)
+264,"Leafroller, Apple (Archips longicellana)"
+265,"Leafroller, Blueberry"
+266,"Leafroller, European (Archips rosanus)"
+267,"Leafroller, Filbert (Archips rosanus)"
+268,"Leafroller, Fruittree (Archips argyrospila)"
+269,"Leafroller, Grape (Platynota stultana)"
+270,"Leafroller, Grape (Sylepta lunalis)"
+271,"Leafroller, Obliquebanded"
+272,"Leafroller, Obliquebanded (Choristoneura rosaceana)"
+273,"Leafroller, Omnivorous (Platynota stultana)"
+274,"Leafroller, Omnivorous (Playnota stultana) 2"
+275,"Leafroller, Pandemis"
+276,"Leafroller, Red Banded"
+277,"Leafroller, Threelined (Pandemis limitata)"
+278,"Leafroller, Variegated (Platynota flavedana)"
+279,"Leafroller, Western Avocado (Amorbia cuneana)"
+280,"Leafskeletonizer, Grape (Harrisina americana)"
+281,Leaftier (Tortricidae)
+282,"Leafworm, Cotton"
+283,Lepidoptera pests
+284,Lice
+285,Light Brown Apple Moth
+286,Locust
+287,Looper (Anacamptodes spp.)
+288,Looper (Noctuidae)
+289,"Looper, Alfalfa (Autographa californica)"
+290,"Looper, Cabbage (Trichoplusia ni)"
+291,"Looper, Hemlock"
+292,"Looper, Imported Cabbage"
+293,"Looper, Omnivorous (Sabulodes aegrotata)"
+294,"Looper, Rannoch (Itame brunneata)"
+295,"Looper, Soybean (Pseudoplusia includens)"
+296,Maggot (Diptera)
+297,"Maggot, Apple (Rhagoletis pomonella)"
+298,"Maggot, Blueberry (Rhagoletis mendax)"
+299,"Maggot, Cabbage (Delia radicum)"
+300,"Maggot, Cherry (Rhagoletis cingulata)"
+301,"Maggot, Onion (Delia antiqua)"
+302,"Maggot, Seedcorn (Delia platura)"
+303,"Mapleworm, Greenstriped (Dryocampa rubicunda)"
+304,Mealybug (Pseudococcidae)
+305,"Mealybug, Apple (Phenacoccus aceris)"
+306,"Mealybug, Citrus (Planococcus citri)"
+307,"Mealybug, Grape (Pseudococcus maritimus)"
+308,Melonworm (Diaphania hyalinata)
+309,Midge (Diptera)
+310,Millipede
+311,Mite (Acari)
+312,"Mite, (Brevipalpus phoenicis)"
+313,"Mite, (Polyphagotarsonemus latus)"
+314,"Mite, (Steneotarsonemus spinki)"
+315,"Mite, Broad (Polyphagotarsonemus latus)"
+316,"Mite, Citrus Rust (Phyllocoptruta oleivora)"
+317,"Mite, Clover (Bryobia praetiosa)"
+318,"Mite, Eriophyid (Eriophyes spp. and Aceria spp.)"
+319,"Mite, European Red (Panonychus ulmi)"
+320,"Mite, Red Twospotted Spider"
+321,"Mite, Red/Spider"
+322,"Mite, Rust (Eriophyiidae)"
+323,"Mite, Varroa"
+324,Mosquito (All species)
+325,Moth (all species)
+326,"Moth, Achema Sphinx (hornworm) (Eumorpha achemon)"
+327,"Moth, Almond (Caudra cautella)"
+328,"Moth, Amorbia (Amorbia humerosana)"
+329,"Moth, Artichoke Plume (Platyptilia carduidactyla)"
+330,"Moth, Azalea"
+331,"Moth, Banana (Hypercompe scribonia)"
+332,"Moth, Banded Sunflower (Cochylis hospes)"
+333,"Moth, Browntail (Euproctis chrysohrroea)"
+334,"Moth, Buck"
+335,"Moth, California Oak (Phryganidia californica)"
+336,"Moth, China Mark (Nymphula stagnata)"
+337,"Moth, Codling (Cydia pomonella)"
+338,"Moth, Codling, larvae"
+339,"Moth, Diamondback (Plutella xylostella)"
+340,"Moth, Douglas Fir Tussock"
+341,"Moth, Ello (hornworm) (Erinnyis ello)"
+342,"Moth, European Grapevine (Lobesia botrana)"
+343,"Moth, European Pine Shoot (Rhyacionia buoliana)"
+344,"Moth, Grape Berry (Endopiza viteana)"
+345,"Moth, Grape Berry (Paralobesia viteana)"
+346,"Moth, Gypsy (Lymantria dispar)"
+347,"Moth, Indian Meal (Plodia interpunctella)"
+348,"Moth, Io (Automeris io)"
+349,"Moth, Leek"
+350,"Moth, Light brown apple (Epiphyas postvittana)"
+351,"Moth, Mediterranean Flour (Ephestia kuehniella)"
+352,"Moth, Oleander (Syntomeida epilais)"
+353,"Moth, Oriental Fruit (Grapholita molesta)"
+354,"Moth, Oriental fruit, larvae"
+355,"Moth, Owleye (Anthera polyphemus)"
+356,"Moth, Raisin (Cadra figulilella)"
+357,"Moth, Satin"
+358,"Moth, Tobacco (Ephestia elutella)"
+359,"Moth, Tufted Apple Bud (Platynota idaeusalis)"
+360,"Moth, Tussock"
+361,"Moth, Western Tussock (Orgyia vetusta)"
+362,"Moth, White Marked Tussock"
+363,"Moth, Winter"
+364,"Nematode, Golden (Globodera rostochiensis)"
+365,No-see-um
+366,"Nuisance flies (Psychoda spp., Chironomus spp.)"
+367,Oakmoth Larvae
+368,"Oakworm, California (Phryganidia californica)"
+369,"Oakworm, Orangestriped"
+370,Opogona sacchari
+371,Orange Tortrix (Argyrotaenia citrana)
+372,Orangedog (Papilio cresphontes)
+373,"Orangeworm, Navel (Amyelois transitella)"
+374,Oriental fruit fly (Bactrocera dorsalis)
+375,Pacific mite
+376,Panonychus spp.
+377,"Peanutworm, Rednecked (Stegasta bosqueella)"
+378,"Perforator, Cotton Leaf"
+379,"Phylloxera, Grape (Daktulosphaira vitifoliae)"
+380,Pickleworm (Diaphania nitidalis)
+381,Pillbug
+382,Pinworm
+383,"Pinworm, Tomato (Keiferia lycopersicella)"
+384,"Plant Bug, Leaf Bug (Miridae)"
+385,"Plant Bug, Tarnished (Lygus lineolaris)"
+386,Podworm
+387,"Psylla, Pear (Cacopsylla pyricola)"
+388,Psyllid (Psyllidae)
+389,"Psyllid, Asian citrus"
+390,Rindworm
+391,Rindworm Complex
+392,Roach
+393,Rootworm (Chrysomelidae)
+394,"Rootworm, Corn (Diabrotica spp.)"
+395,Saltmarsh Caterpillar (Estigmene acrea)
+396,Sawfly (Tenthredinidea)
+397,"Sawfly, European"
+398,"Sawfly, European Pine (Neodiprion sertifer)"
+399,"Sawfly, Pear (Caliroa cerasi)"
+400,"Sawfly, Red-headed Pine (Neodiprion lecontei)"
+401,Scale (Homoptera)
+402,"Scale, Armored (Diaspididae)"
+403,"Scale, Black (Saissetia oleae)"
+404,"Scale, Brown Soft (Coccus hesperidum)"
+405,"Scale, California Red (Aonidiella aurantii)"
+406,"Scale, Cottony (Pulvinaria spp.)"
+407,"Scale, Cottony Cushion (Icerya purchasi)"
+408,"Scale, Florida Red (Chrysomphalus aonidum)"
+409,"Scale, Green (Coccus viridis)"
+410,"Scale, Lecanium (Mesolecanium spp.)"
+411,"Scale, San Jose (Quadraspidiotus perniciosus)"
+412,"Scale, Soft (Coccidae)"
+413,"Seedworm, Koa (Cryptophlebia illepida)"
+414,Sharpshooter (Homalodisca spp.)
+415,"Sharpshooter, Glassy-Winged (Homalodisca coagulata)"
+416,"Sharpshooter, Glassy-winged (Homalodisca vitripennis)"
+417,"Shuckworm, Hickory (Cydia caryana)"
+418,"Skeletonizer, Grapeleaf (Harrisina americana)"
+419,"Skeletonizer, Oak"
+420,Skipper (Hesperiidae)
+421,"Skipper, Banana (Erionota thrax)"
+422,"Skipper, European (Essex Skipper (Thymelicus lineola)"
+423,Sowbug
+424,"Sowbug, Sod"
+425,Soybean Looper (Pseudoplusia includens)
+426,Spanworm (Ennomos subsignaria)
+427,Spanworm (Geometridae)
+428,"Spanworm, Blueberry (Itame argillacearia)"
+429,"Spanworm, Elm (Ennomos subsignaria)"
+430,Spider Mite (Tetranychidae)
+431,Spittlebug (Cercopidae)
+432,Spotted Wing Drosophila
+433,Stem Girdler
+434,Stinkbug and Brown Marmorated (Pentatomidae)
+435,Stored product pests
+436,Symphylan (Centipedes)
+437,Termite
+438,"Termite, Dampwood (Prorhinotermes simples)"
+439,"Termite, Dampwood (Zootermopsis spp.)"
+440,"Termite, Drywood (Cryptotermes spp.)"
+441,"Termite, Drywood (Incisitermes spp.)"
+442,"Termite, Drywood (Kalotermes spp.)"
+443,"Termite, Drywood (Marginitermes spp.)"
+444,"Termite, Powderpost (Cryptotermes spp.)"
+445,"Termite, Subterranean (Coptotermes formosanus)"
+446,"Termite, Subterranean (Heterotermes spp.)"
+447,"Termite, Subterranean (Reticulitermes spp.)"
+448,Tetranychus spp.
+449,Thecla-Theclas Basilides (Geyr) (Thecla basilides)
+450,Thrips (Thysanoptera)
+451,"Thrips, Avocado (Scirtothrips perseae)"
+452,"Thrips, Chilli"
+453,"Thrips, Citrus (Scirtothrips citri)"
+454,"Thrips, Cuban Laurel (Gynaikothrips ficorum)"
+455,"Thrips, Flower (Frankliniella tritici)"
+456,"Thrips, Gladiolus (Thrips simplex)"
+457,"Thrips, Greenhouse (Heliothrips haemorrhoidalis)"
+458,"Thrips, Melon"
+459,"Thrips, Onion (Thrips tabaci)"
+460,"Thrips, Palmi (Thrips palmi)"
+461,"Thrips, Tobacco (Frankliniella fusca)"
+462,"Thrips, Western Flower (Frankliniella)"
+463,Tick
+464,Tobacco Budworm (Heliothis virescens)
+465,Tobacco Hornworm (Manduca sexta)
+466,Tobacco Moth
+467,Tortrix (Tortricidae sp.)
+468,"Tortrix, Garden (Clepsis peritana)"
+469,"Tortrix, Orange (Argyrotaenia citrana)"
+470,Tracheal Mites
+471,Tree Cricket
+472,Twig borer
+473,Two-spotted spider mite
+474,Vaquita (Oisphanes spp.)
+475,Variegated Cutworm (Peridroma saucia)
+476,Varroa mite
+477,Velvetbean Caterpillar (Anticarsia gemmatalis)
+478,"Vine Mealybug, (Planococcus ficus)"
+479,Wasp (Hymenoptera)
+480,"Wasp, Gall"
+481,Webworm (Lepidoptera)
+482,"Webworm, Cabbage (Hellula rogatalis)"
+483,"Webworm, Fall (Hyphantria cunea)"
+484,"Webworm, Fall (Melissopus latiferreanus)"
+485,"Webworm, Filbert"
+486,"Webworm, Garden (Achyra rantalis)"
+487,"Webworm, Mimosa (Homadaula anisocentra)"
+488,"Webworm, Sod (Crambus mutabilis)"
+489,"Webworm, Sod (Crambus spp.)"
+490,"Webworm, Tropical Sod"
+491,Weevil (Curculionidae)
+492,"Weevil, Alfalfa (Hypera postica)"
+493,"Weevil, Black Vine (Otiorhynchus sulcatus)"
+494,"Weevil, Boll (Anthonomus grandis grandis)"
+495,"Weevil, Carrot (Listronotus oregonensis)"
+496,"Weevil, Chestnut (Curculio spp.)"
+497,"Weevil, Citrus Root (Pachnaeus litus)"
+498,"Weevil, Clover Leaf (Hypera punctata)"
+499,"Weevil, Egyptian Alfalfa (Hypera brunnipennis)"
+500,"Weevil, Filbert"
+501,"Weevil, Pecan (Curculio caryae)"
+502,"Weevil, Pepper (Anthonomus eugenii)"
+503,"Weevil, Rice (Sitophilus oryzae)"
+504,"Weevil, Root"
+505,"Weevil, Strawberry Root (Otiorhynchus ovatus)"
+506,"Weevil, Sweetpotato (Cylas formicarius)"
+507,White Grub (All species)
+508,Whitefly (Aleyrodidae)
+509,"Whitefly, Banded-winged (Trialeurodes abutiloneus)"
+510,"Whitefly, Greenhouse (Trialeurodes vaporariorum)"
+511,"Whitefly, Silverleaf (Bemisia argentifolii)"
+512,"Whitefly, Sweetpotato (Bemisia tabaci)"
+513,"Whitefly, Woolly"
+514,Willamette mite
+515,Wireworm
+516,Worm
+517,"Worm, Alfalfa"
+518,"Worm, Blossom (Epiglae apiata)"
